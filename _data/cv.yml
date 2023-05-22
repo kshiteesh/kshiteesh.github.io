@@ -8,6 +8,30 @@
     - name: Languages
       value: English, Kannada, Hindi, Beginner Spanish
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Data Scientist
+      institution: Western Digital
+      year: July 2018 - Present
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: Data Science Intern
+      institution: Pacific Northwest National Laboratory
+      year: Jun 2017 - Aug 2017
+#      description:
+#        - Description 1.
+#        - Description 2.
+#
+    - title: Visiting Researcher
+      institution: US Army Research Laboratory
+      year: Jul 2015 - Aug 2015
+
 - title: Education
   type: time_table
   contents:
@@ -33,30 +57,6 @@
 #      description:
 #        - Description 1.
 #        - Description 2.
-#
-- title: Experience
-  type: time_table
-  contents:
-    - title: Data Scientist
-      institution: Western Digital
-      year: July 2018 - Present
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-#    - title: Visiting Professor
-#      institution: California Institute of Technology, Pasadena, California, US
-#      year: 1933
-#      description:
-#        - Description 1.
-#        - Description 2.
-#
-#    - title: Director
-#      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#      year: 1917-1933
 #
 #    - title: Professor of Theoretical Physics
 #      institution: Karl-Ferdinand University, Prague, Czechoslovakia
