@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist at Western Digital since 2018
+subtitle: Machine Learning Scientist at Western Digital since 2018
 
 profile:
   align: right
