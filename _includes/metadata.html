@@ -191,25 +191,4 @@
     {%- if sameaslinks != blank -%}
         {%- assign sameaslinks = sameaslinks | split: "" -%}
     {%- endif -%}
-
-    <script type="application/ld+json">
-        {
-          "@context": "https://schema.org/",
-          "@type": "Person",
-          "name": "Kshiteesh Hegde",
-          "url": "https://www.hegde.ai",
-          "image": "https://www.hegde.ai/assets/img/prof_pic.jpg",
-          "sameAs": [
-            "https://www.twitter.com/kshiteeshspeaks",
-            "https://www.linkedin.com/in/hegdekshiteesh",
-            "https://www.github.com/kshiteesh",
-            "https://www.hegde.ai"
-          ],
-          "jobTitle": "Machine Learning Scientist",
-          "worksFor": {
-            "@type": "Organization",
-            "name": "Western Digital"
-          }
-        }
-    </script>
 {%- endif %}
