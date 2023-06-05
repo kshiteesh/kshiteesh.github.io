@@ -7,7 +7,7 @@ years: [2019, 2018, 2017, 2016]
 nav: true
 nav_order: 1
 ---
-Here is a [link](https://scholar.google.com/citations?user=ljBAYdYAAAAJ&hl=en) to my Google Scholar page.
+Here is a [link](https://scholar.google.com/citations?user=ljBAYdYAAAAJ&hl=en) to my Google Scholar page and [one](https://openreview.net/profile?id=~Kshiteesh_Hegde1) to my OpenReview profile.
 <!-- _pages/publications.md -->
 <div class="publications">
 

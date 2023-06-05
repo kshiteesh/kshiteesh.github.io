@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kshiteesh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - kshiteesh/kshiteesh.github.io
+  - kshiteesh/personal_website
