@@ -121,10 +121,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-#blog_name: K Hegde's blog # blog_name will be displayed in your blog page
-#blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
-#blog_description: my thoughts
-#permalink: /blog/:year/:title/
+blog_name: K Hegde's blog # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
+blog_description: my thoughts
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -261,7 +261,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+display_tags: ['machine-learning', 'ai', 'data', 'reviews', 'code'] # these tags will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
