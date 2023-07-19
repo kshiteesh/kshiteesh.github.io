@@ -27,5 +27,5 @@ Download [here](/assets/pdf/asonam19_slides.pdf)
 <object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/asonam19_slides.pdf" width="100%" height="500" type='application/pdf'></object>
 
 # Paper
-Download [here](/assets/pdf/asonam19_paper.pdf)
+Download [here](/assets/pdf/asonam2019_paper.pdf)
 <object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/asonam2019_paper.pdf" width="100%" height="800" type='application/pdf'></object>
