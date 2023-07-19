@@ -18,12 +18,12 @@ giscus_comments: true
 
 # Poster
 Download [here](/assets/pdf/cikm_2016_poster.pdf)
-<object data="../assets/pdf/cikm_2016_poster.pdf" width="100%" height="800" type='application/pdf'/>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/cikm_2016_poster.pdf" width="100%" height="800" type='application/pdf'></object>
 
 # Slides
 Download [here](/assets/pdf/cikm_2016_slides.pdf)
-<object data="../assets/pdf/cikm_2016_slides.pdf" width="100%" height="500" type='application/pdf'/>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/cikm_2016_slides.pdf" width="100%" height="500" type='application/pdf'></object>
 
 # Paper
 Download [here](/assets/pdf/cikm_2016_paper.pdf)
-<object data="../assets/pdf/cikm_2016_paper.pdf" width="100%" height="800" type='application/pdf'/>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/cikm_2016_paper.pdf" width="100%" height="800" type='application/pdf'></object>
