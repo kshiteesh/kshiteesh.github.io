@@ -18,12 +18,12 @@ giscus_comments: true
 
 # Poster
 Download [here](/assets/pdf/cikm_2016_poster.pdf)
-<embed src="../assets/pdf/asonam2019_paper.pdf" width="100%" height="800" type='application/pdf'>
+<object data="../assets/pdf/cikm_2016_poster.pdf" width="100%" height="800" type='application/pdf'/>
 
 # Slides
 Download [here](/assets/pdf/cikm_2016_slides.pdf)
-<embed src="../assets/pdf/asonam19_slides.pdf" width="100%" height="500" type='application/pdf'>
+<object data="../assets/pdf/cikm_2016_slides.pdf" width="100%" height="500" type='application/pdf'/>
 
 # Paper
 Download [here](/assets/pdf/cikm_2016_paper.pdf)
-<embed src="../assets/pdf/asonam2019_paper.pdf" width="100%" height="800" type='application/pdf'>
+<object data="../assets/pdf/cikm_2016_paper.pdf" width="100%" height="800" type='application/pdf'/>

@@ -24,8 +24,8 @@ giscus_comments: true
 
 # Slides
 Download [here](/assets/pdf/asonam19_slides.pdf)
-<embed src="../assets/pdf/asonam19_slides.pdf" width="100%" height="500" type='application/pdf'>
+<object data="../assets/pdf/asonam2019_slides.pdf" width="100%" height="500" type='application/pdf'/>
 
 # Paper
 Download [here](/assets/pdf/asonam19_paper.pdf)
-<embed src="../assets/pdf/asonam2019_paper.pdf" width="100%" height="800" type='application/pdf'>
+<object data="../assets/pdf/asonam2019_paper.pdf" width="100%" height="800" type='application/pdf'/>
