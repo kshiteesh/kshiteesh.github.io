@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll part of the technical program committee for American Meteorological Society's Journal on AI for the Earth Systems!
+I'll be part of the technical program committee for American Meteorological Society's Journal on AI for the Earth Systems!

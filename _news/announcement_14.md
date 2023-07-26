@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll part of the technical program committee for CIKM 2023!
+I'll be part of the technical program committee for CIKM 2023!
