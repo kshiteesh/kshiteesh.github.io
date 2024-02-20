@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be serving as a reviewer for IEEE MILCOM 2023!
+I'll be serving as a reviewer and session chair for IEEE MILCOM 2023!
